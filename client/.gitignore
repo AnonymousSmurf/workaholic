@@ -1,0 +1,9 @@
+node_modules
+
+/.cache
+/build
+/public/build
+.env
+
+# Don't include styles folder because it can just be rebuild on release
+/app/styles
